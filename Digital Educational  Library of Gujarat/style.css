@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding:0;
+}
+body{
+    background-color: gold;
+    background-size: cover;
+    background-image:url("/img/background_body.webp")
+
+}
+
+
+#heading1{
+    background-color: rgb(000,255,000);
+    text-align: center;
+} 
+#logo{
+    width: 200px;
+    height: 200px;
+}
+#navbar{
+    background-color: aqua;
+}
+.navlink{
+    font-size: 30px;
+    margin-right:400px;
+   
+    text-decoration: none;
+    color: red;
+}
+.navlink1{
+    margin-right: 0;
+    font-size: 30px;
+    text-decoration: none;
+    color: red;
+
+}
+.spn{
+    margin-top: 75px;
+    width: 200px;
+    height: 190px;
+    border-radius: 25%;
+    margin-right: 50px;
+}
+#heading2{
+    text-decoration: solid;
+    margin-top: 100px;
+    /* margin-bottom: 50px; */
+    text-align: center;
+    color:white;
+}
+#navneet{
+    text-align: center;
+}
+.img1{
+    margin-top:30px;
+    width:1000px;
+    height:500px;
+    border-radius: 15%;
+}
+#bhagwadgita{
+    background-image: url("/img/Background2.jpeg");
+    background-size: cover;
+}
+
